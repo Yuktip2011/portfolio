@@ -2,7 +2,7 @@
 
 A professional, high-performance, and responsive portfolio website built with pure semantic **HTML5**, modern **CSS3** (CSS Variables, Flexbox, Grid, Glassmorphism), and vanilla **JavaScript (ES6+)**.
 
----
+
 
 ## 🚀 Key Features
 
@@ -15,11 +15,11 @@ A professional, high-performance, and responsive portfolio website built with pu
 - **Form Validation**: Client-side contact form verification with success alert.
 - **Zero Dependencies**: Blazing fast load times with no Node/npm builds required.
 
----
+
 
 ## 📁 Directory Structure
 
-```
+
 protfolio/
 ├── index.html            # Main semantic HTML5 document
 ├── css/
@@ -28,9 +28,9 @@ protfolio/
 │   └── main.js           # Theme switcher, typewriter, filters, modal, form logic
 └── assets/
     └── images/           # Assets and mockups
-```
 
----
+
+
 
 ## 🛠️ How to Preview Locally
 
@@ -39,12 +39,12 @@ Simply double-click `index.html` or drag it into any web browser (Chrome, Edge, 
 
 ### Option 2: Local Python Server (Recommended)
 Open PowerShell or Terminal in this folder and run:
-```powershell
+powershell
 python -m http.server 8000
-```
+
 Then visit: [http://localhost:8000](http://localhost:8000)
 
----
+
 
 ## ✏️ How to Customize
 
@@ -56,7 +56,6 @@ Then visit: [http://localhost:8000](http://localhost:8000)
 3. **Resume / CV**:
    - Place your resume PDF in `assets/` and link it in the navigation or Hero section.
 
----
 
 ## 🌐 Free Deployment Guide
 
